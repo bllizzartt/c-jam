@@ -11,4 +11,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/MainScene.unity
     guid: 6be89c7ec7e7b46e48875d5618ec6eb6
+  - enabled: 1
+    path: Assets/Scenes/Angry.unity
+    guid: b11e3d0799442420caf822728eea7cc1
   m_configObjects: {}
