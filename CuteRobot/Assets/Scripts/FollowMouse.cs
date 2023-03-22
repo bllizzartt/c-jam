@@ -8,7 +8,7 @@ public class FollowMouse : MonoBehaviour
     GameObject eye;
     
     void Start(){
-        t$$anonymous$$s.eye = GameObject.Find("MyEye");
+        // GameObject = GameObject.Find("MyEye");
     }
 
     void Update()
@@ -27,6 +27,5 @@ public class FollowMouse : MonoBehaviour
         );
  
         transform.up = direction;
-        t$$anonymous$$s.eye.transform.LookAt(invertedMousePos);
     }
 }
