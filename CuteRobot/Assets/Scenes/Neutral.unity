@@ -878,9 +878,11 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d9c72fe12a1284e1b9027ec865293bec, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  foodImage: {fileID: 0}
-  happinessImage: {fileID: 0}
-  energyImage: {fileID: 0}
+  foodImage: {fileID: 1032323744}
+  happinessImage: {fileID: 1753454495}
+  energyImage: {fileID: 360103189}
+  musicImage: {fileID: 0}
+  loveImage: {fileID: 0}
 --- !u!1 &642503656
 GameObject:
   m_ObjectHideFlags: 0
