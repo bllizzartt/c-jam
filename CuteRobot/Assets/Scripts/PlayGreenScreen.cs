@@ -6,7 +6,7 @@ using UnityEngine.UI;
 public class PlayGreenScreen : MonoBehaviour
 {
     public Image GreenScreen;
-    public float timerDuration = 5;
+    public float timerDuration = 8;
     float timer = 0f;
     // Start is called before the first frame update
     void Start()
@@ -19,7 +19,7 @@ public class PlayGreenScreen : MonoBehaviour
     void Update()
     {
         timer -= Time.deltaTime;  
-        if (timer > 5){
+        if (timer < 1){
             timer = timerDuration;
             GreenScreen.enabled = true;
         }

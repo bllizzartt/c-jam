@@ -1192,4 +1192,4 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   GreenScreen: {fileID: 1488168193}
-  timerDuration: 5
+  timerDuration: 8
