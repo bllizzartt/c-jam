@@ -10,12 +10,12 @@ public class FollowMouse : MonoBehaviour
     void Start(){
         // GameObject = GameObject.Find("MyEye");
     }
-
+/*
     void Update()
     {
         faceMouse();        
     }
- 
+
     void faceMouse()
     {
         Vector3 mousePosition = Input.mousePosition;
@@ -27,5 +27,5 @@ public class FollowMouse : MonoBehaviour
         );
  
         transform.up = direction;
-    }
+    }*/
 }
