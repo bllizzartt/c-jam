@@ -84,7 +84,7 @@ public class Arduino : MonoBehaviour
     public void toArduino(String message)
     {
         serialPort.WriteLine(message);
-        //Debug.Log("send " + message + " to the serial port");
+        Debug.Log("send " + message + " to the serial port");
     }
 
     public static float map(float value, float leftMin, float leftMax, float rightMin, float rightMax)

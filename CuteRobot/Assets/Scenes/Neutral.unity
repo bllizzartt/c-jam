@@ -452,7 +452,7 @@ MonoBehaviour:
           m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
           m_IntArgument: 0
           m_FloatArgument: 0
-          m_StringArgument: E
+          m_StringArgument: A
           m_BoolArgument: 0
         m_CallState: 2
 --- !u!114 &360103189
@@ -1376,7 +1376,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 8bfb2b99fe5d749e5b174257c6efd351, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  portName: COM13
+  portName: /dev/cu.usbmodem1101
 --- !u!4 &896627934
 Transform:
   m_ObjectHideFlags: 0
