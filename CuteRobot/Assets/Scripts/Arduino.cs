@@ -7,7 +7,7 @@ using System.Threading;
 
 public class Arduino : MonoBehaviour
 {
-    public String portName = "/dev/cu.usbmodem1101";  // 1. use the port name for your Arduino, such as /dev/tty.usbmodem1411 for Mac or COM3 for PC, make sure to update it in the inspector
+    public String portName = "/dev/cu.usbmodem14201";  // 1. use the port name for your Arduino, such as /dev/tty.usbmodem1411 for Mac or COM3 for PC, make sure to update it in the inspector
 
     private SerialPort serialPort = null;
     private int baudRate = 115200;  // 2. match your rate from your serial in Arduino
