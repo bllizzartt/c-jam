@@ -224,9 +224,9 @@ Project Link: [https://github.com/bllizzartt/c-jam](https://github.com/bllizzart
 [issues-shield]: https://img.shields.io/github/issues/bllizzartt/c-jam.svg?style=for-the-badge
 [issues-url]: https://github.com/bllizzartt/c-jam/issues
 [license-shield]: https://img.shields.io/github/license/bllizzartt/c-jam.svg?style=for-the-badge
-[license-url]: https://github.com/bllizzartt/c-jam/blob/master/LICENSE.txt
+[license-url]: https://github.com/bllizzartt/c-jam/blob/main/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/in/https://www.linkedin.com/in/chase-haynes/
+[linkedin-url]: https://www.linkedin.com/in/chase-haynes/
 [product-screenshot]: images/screenshot.png
 [Next.js]: https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white
 [Next-url]: https://nextjs.org/
