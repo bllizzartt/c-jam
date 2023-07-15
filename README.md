@@ -30,7 +30,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-    <img src="" alt="Logo" width="80" height="80">
+    <img src="https://github.com/bllizzartt/c-jam/blob/main/Images/logo.png" alt="Logo" width="80" height="80">
 
 <h3 align="center">C Jam</h3>
 
